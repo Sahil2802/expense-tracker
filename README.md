@@ -1,7 +1,7 @@
 # Expense Tracker
 
 A simple and intuitive expense tracker application built with React.
-![alt text](image-1.png)
+![alt text](image.png)
 
 ## Features
 
